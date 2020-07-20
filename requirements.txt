@@ -1,0 +1,6 @@
+PIL
+docker
+selenium
+bs4
+requests
+gensim
